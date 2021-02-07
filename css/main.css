@@ -11,7 +11,6 @@
 	font-display: swap;
 }
 
-
 @font-face {
     font-family: 'open_bold';
     src: url('../fonts/opensans-bold.eot');
@@ -23,7 +22,6 @@
 	font-style: normal;
 	font-display: swap;
 }
-
 
 @font-face {
     font-family: 'open_semibold';
@@ -57,17 +55,7 @@ a:focus{
 	max-width: 1130px;
 }
 
-
-
-
-
-
-
-
-
-
 /*		Header 		*/
-
 header{
 	position: relative;
 	display: block;
@@ -179,17 +167,7 @@ header .social li:first-child{
 	margin: 0;
 }
 
-
-
-
-
-
-
-
-
-
 /*		Hero section 		*/
-
 .hero{
 	display: block;
 	position: relative;
@@ -268,7 +246,6 @@ a.app_store_btn{
 	background: url('../img/android_app.png') no-repeat;
 }
 
-
 a.app_store_btn:hover,
 a.app_store_btn:focus{
 	border-color: #41c27d;
@@ -312,7 +289,6 @@ a.app_link{
 	-webkit-transition: all .2s linear;
 }
 
-
 .about_video{
     position: fixed;
     top: 0;
@@ -349,17 +325,7 @@ a.app_link{
   font-weight: bolder;
 }
 
-
-
-
-
-
-
-
-
-
 /*		Featured on section 		*/
-
 .featured_on{
 	width: 100%;
 	padding: 25px 0;
@@ -379,17 +345,7 @@ a.app_link{
 	margin-left: 0;
 }
 
-
-
-
-
-
-
-
-
-
 /*		About section 		*/
-
 .about{
 	padding: 100px 0;
 }
@@ -476,17 +432,7 @@ a.app_link{
 	display: inline-block;
 }
 
-
-
-
-
-
-
-
-
-
 /*		App features 		*/
-
 .app_features{
 	width: 100%;
 	padding: 100px 0 20px 0;
@@ -522,17 +468,7 @@ a.app_link{
 	clear: both;
 }
 
-
-
-
-
-
-
-
-
-
 /*		Testimonials section 		*/
-
 .testimonials{
 	padding: 100px 0;
 }
@@ -628,17 +564,7 @@ a.app_link{
 	background-position: -33px 0;
 }
 
-
-
-
-
-
-
-
-
-
 /*		Subscription section 		*/
-
 .sub_box{
 	width: 100%;
 	padding: 100px 0;
@@ -736,17 +662,7 @@ a.app_link{
 	display: none;
 }
 
-
-
-
-
-
-
-
-
-
 /*		Footer 		*/
-
 footer{
 	padding: 100px 0;
 	text-align: center;
@@ -772,16 +688,7 @@ footer .copyright a{
 	color: #565555;
 }
 
-
-
-
-
-
-
-
-
 /*		Responsive CSS 		*/
-
 @media (max-width: 360px) {
 	.featured_on li{
 		display: block;
@@ -842,11 +749,6 @@ footer .copyright a{
 		margin-left: 10px;
 	}
 
-
-
-
-
-
 	/*		Hero section 		*/
 	.hero .caption{
 		margin-left: 0;
@@ -860,10 +762,6 @@ footer .copyright a{
 		text-align: center;
 	}
 
-
-
-
-
 	/*		Featured on section		*/
 	.featured_on{
 		padding: 25px 0 5px 0!important;
@@ -872,11 +770,6 @@ footer .copyright a{
 	.featured_on ul li{
 		margin-bottom: 25px!important;
 	}
-
-
-
-
-
 
 	/*		About Section 		*/
 	.about .features_list {
@@ -898,11 +791,6 @@ footer .copyright a{
 		display: block;
 		margin-top: 20px;
 	}
-
-
-
-
-
 
 	/*		Subscription section 		*/
 	.sub_box #mc-email,
